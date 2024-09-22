@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Junaid Ahmed(@deveraz3r)
+- 👤 I’m a full-stack app developer.
+- 👀 I’m interested in working on Flutter projects.
+- 🌱 I’m currently learning more about Node.js and Flutter.
+- 💞️ I’m looking to collaborate on Flutter projects.
+- 📫 How to reach me: dev.eraz3r@gmail.com
+- 🌐 My portfolio: comingsoon
+- ⚡ Fun fact: I love exploring new technologies and building innovative apps!
